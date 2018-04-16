@@ -7,6 +7,15 @@
  */
 
 void setup() {
+  int name = 0;
+  int foodorder = 1;
+  int drink =2;
+  
+  String lines[] = loadStrings("list.txt");
+  
+    println("Name:", lines[name]);
+    println("Food order:", lines[foodorder]);
+    println("Drink:", lines[drink]);
 
 }
 
