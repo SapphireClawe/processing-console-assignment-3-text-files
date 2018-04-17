@@ -1,0 +1,4 @@
+Good evening <customer name>. Nice to meet you!
+Our daily specials are… <specials.txt> and we currently have five types of drinks on the menu <drinks.txt>.
+I see that you are ordering <food order> with a <beverage order>.
+Good choice <customer name>, I will be out in a minute with your <food order> and your <beverage order> right away.
