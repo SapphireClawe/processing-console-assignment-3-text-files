@@ -17,7 +17,7 @@ void setup() {
     println("Food order:", lines[foodorder]);
     println("Drink:", lines[drink]);
     println("Good evening", lines[name] ,". Nice to meet you!");
-    println("Our daily specials are… ", lines1[0],", ", lines1[1] ,", ", lines1[2] ,", ", lines1[3] ,"and we currently have three types of drinks on the menu.");
+    println("Our daily specials are… ", lines1[0],", ", lines1[1] ,", ", lines1[2] ,", ", lines1[3] ,", ", lines1[4],", and we currently have three types of drinks on the menu.");
     println("I see that you are ordering", lines[foodorder] ," with a", lines[drink] ,".");
     println("Good choice", lines[name] ,", I will be out in a minute with your ", lines[foodorder] ," and your ", lines[drink] ," right away."); 
 
